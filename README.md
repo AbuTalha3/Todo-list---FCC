@@ -10,9 +10,8 @@ The HTML and CSS for this project have been provided for you. Take a look at the
 
 Begin by accessing the task-form, confirm-close-dialog, and open-task-form-btn elements with the getElementById() method. Save them in the variables taskForm, confirmCloseDialog, and openTaskFormBtn.
 
-javascript
-Copy code
+<code>
 const taskForm = document.getElementById("task-form");
 const confirmCloseDialog = document.getElementById("confirm-close-dialog");
-const openTaskFormBtn = document.getElementById("open-task-form-btn");
+const openTaskFormBtn = document.getElementById("open-task-form-btn");</code>
 These elements are crucial for interacting with the user interface and managing tasks in your Todo application. Once you have these elements accessed, you can proceed to handle form inputs, manage local storage, and implement CRUD operations.
