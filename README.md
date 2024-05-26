@@ -8,7 +8,7 @@ In this project, you will learn how localStorage works in JavaScript by building
 
 The `HTML` and `CSS` for this project have been provided for you. Take a look at the files to get yourself familiarized with them.
 
-Begin by accessing the task-form, confirm-close-dialog, and open-task-form-btn elements with the getElementById() method. Save them in the variables taskForm, confirmCloseDialog, and openTaskFormBtn.
+Begin by accessing "the task-form, confirm-close-dialog, and open-task-form-btn elements with the getElementById() method. Save them in the variables taskForm, confirmCloseDialog, and openTaskFormBtn.
 
 <code>
 `const taskForm = document.getElementById("task-form");
