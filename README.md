@@ -14,4 +14,4 @@ Begin by "accessing" "the task-form, confirm-close-dialog, and open-task-form-bt
 `const taskForm = document.getElementById("task-form");
 const confirmCloseDialog = document.getElementById("confirm-close-dialog");
 const openTaskFormBtn = document.getElementById("open-task-form-btn");` </code>
-These elements are crucial for interacting with the user interface and managing tasks in your Todo application. Once you have these elements accessed, you can proceed to handle form inputs, manage local storage, and implement CRUD operations.
+These "elements" are crucial for interacting with the user interface and managing tasks in your Todo application. Once you have these elements accessed, you can proceed to handle form inputs, manage local storage, and implement CRUD operations.
